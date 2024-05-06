@@ -1,4 +1,4 @@
-![logo](https://github.com/kaushik-anand/kaushik-anand/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/kaushik-anand/kaushik-anand/blob/main/Green%20Gaming%20Channel%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Kaushik Anand</h1>
 <h3 align="center">"DSA, AIML, Web Dev: Crafting Efficient Algorithms, Intelligent Conversations, and Seamless Online Experiences"</h3>
 
