@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **DSA , AI ML and Web Development Skills**
 
-- 🌱 I’m currently learning **C,C++,JAVA,Python,ReactJS,NextJS**
+- 🌱 I’m currently learning **NextJS,ThreeJS,Go,Flutter**
 
-- 👯 I’m looking to collaborate on **AI ML And DSA Projects**
+- 👯 I’m looking to collaborate on **AI ML and Devlopement Projects**
 
 - 👨‍💻 All of my projects are available at [https://kaushik-anand.github.io/portfolio/](https://kaushik-anand.github.io/portfolio/)
 
-- 💬 Ask me about **"I specialize in AI/ML and web development, adept at crafting intelligent algorithms and seamless online experiences. From designing efficient machine learning models to building robust web applications, I thrive on innovation and am eager to discuss these skills. Let's explore the realms of AI, ML, and web development together!"**
+- 💬 Ask me about **"I specialize in DSA, AI/ML and web development, adept at crafting intelligent algorithms and seamless online experiences. From designing efficient machine learning models to building robust web applications, I thrive on innovation and am eager to discuss these skills. Let's explore the realms of AI, ML,DSA and web development together!"**
 
 - 📫 How to reach me **kaushikanand1724@gmail.com**
 
