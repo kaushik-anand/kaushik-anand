@@ -1,4 +1,4 @@
-![logo](https://github.com/kaushik-anand/kaushik-anand/blob/main/github-header-image.png)
+![logo](https://github.com/kaushik-anand/kaushik-anand/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Kaushik Anand</h1>
 <h3 align="center">"DSA, AIML, Web Dev: Crafting Efficient Algorithms, Intelligent Conversations, and Seamless Online Experiences"</h3>
 
