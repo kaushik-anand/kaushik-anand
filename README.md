@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **AI ML and Devlopement Projects**
 
-- 👨‍💻 All of my projects are available at [https://kaushik-anand.github.io/portfolio/](https://kaushik-anand.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://kaushik-anand.github.io/portfolio/](https://kaushikanand.netlify.app/)
 
 - 💬 Ask me about **"I specialize in DSA, AI/ML and web development, adept at crafting intelligent algorithms and seamless online experiences. From designing efficient machine learning models to building robust web applications, I thrive on innovation and am eager to discuss these skills. Let's explore the realms of AI, ML,DSA and web development together!"**
 
