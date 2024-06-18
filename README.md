@@ -22,7 +22,7 @@
 <p align="Center">
 <a href="https://linkedin.com/in/kaushik-anand1724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushik-anand1724" height="30" width="40" /></a>
 <a href="https://instagram.com/kaushik._1424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushik._1424" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anand1424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anand1424" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anand1424" height="30" width="40" /></a>
 <a href="https://kaushikanand.netlify.app/#myProjects" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pixelsquid.com%2Fpng%2Ficon-portfolio-blue-2645804421681780389&psig=AOvVaw1fG30s35OqB1UmBivc-e4k&ust=1715361672198000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKD90q6KgYYDFQAAAAAdAAAAABA3" alt="Portfolio" height="30" width="40" /></a> 
   
 </p>
